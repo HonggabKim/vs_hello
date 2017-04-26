@@ -16,6 +16,8 @@ namespace ConsoleApplication1
             
             Console.WriteLine("Luna is mine");
             Console.WriteLine("Earth is mine");
+
+            Console.WriteLine("Modified locally");
             
         }
     }
