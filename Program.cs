@@ -16,6 +16,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Earth is mine");
             Console.WriteLine("Modified locally");
             Console.WriteLine("modified on GitHub");
+            Console.WriteLine("???");
             Console.Write("-------------------");
             
         }
